@@ -32,7 +32,7 @@ Before you begin, ensure you have the following:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/bedrock-data-extractor.git
+    git clone https://github.com/Pavan164-ml/bedrock-data-extractor.git
     cd bedrock-data-extractor
     ```
 
